@@ -1,0 +1,6 @@
+{
+  "singleQuote": true,
+  "jsxSingleQuote": false,
+  "plugins": ["prettier-plugin-tailwindcss"],
+  "tailwindStylesheet": "./app/globals.css"
+}
