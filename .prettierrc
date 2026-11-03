@@ -2,5 +2,5 @@
   "singleQuote": true,
   "jsxSingleQuote": false,
   "plugins": ["prettier-plugin-tailwindcss"],
-  "tailwindStylesheet": "./app/globals.css"
+  "tailwindStylesheet": "./app/(dashboard)/globals.css"
 }
